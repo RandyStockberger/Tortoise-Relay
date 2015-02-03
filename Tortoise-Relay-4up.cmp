@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 1/16/2015 8:52:53 PM
+
+BeginCmp
+TimeStamp = /54B9E71B;
+Reference = J1;
+ValeurCmp = PWR;
+IdModule  = TERMBLK02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B9E721;
+Reference = J2;
+ValeurCmp = MOTOR;
+IdModule  = TERMBLK02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B9E7FD;
+Reference = J3;
+ValeurCmp = PWR;
+IdModule  = TERMBLK02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B9E803;
+Reference = J4;
+ValeurCmp = MOTOR;
+IdModule  = TERMBLK02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B96ABF;
+Reference = J5;
+ValeurCmp = PWR;
+IdModule  = TERMBLK02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B96ACE;
+Reference = J6;
+ValeurCmp = MOTOR;
+IdModule  = TERMBLK02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B9E78C;
+Reference = J7;
+ValeurCmp = PWR;
+IdModule  = TERMBLK02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B9E792;
+Reference = J8;
+ValeurCmp = MOTOR;
+IdModule  = TERMBLK02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B9E70F;
+Reference = P1;
+ValeurCmp = JACK;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B9E7F1;
+Reference = P2;
+ValeurCmp = JACK;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B9616B;
+Reference = P3;
+ValeurCmp = JACK;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B9E780;
+Reference = P4;
+ValeurCmp = JACK;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B9E715;
+Reference = RL1;
+ValeurCmp = EC2-12NU;
+IdModule  = RLYDPDT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B9E7F7;
+Reference = RL2;
+ValeurCmp = EC2-12NU;
+IdModule  = RLYDPDT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B969C1;
+Reference = RL3;
+ValeurCmp = EC2-12NU;
+IdModule  = RLYDPDT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B9E786;
+Reference = RL4;
+ValeurCmp = EC2-12NU;
+IdModule  = RLYDPDT;
+EndCmp
+
+EndListe
